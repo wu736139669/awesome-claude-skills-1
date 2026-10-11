@@ -36,6 +36,7 @@
 - [pptx](https://github.com/anthropics/skills/tree/main/skills/pptx) - Read, generate, and adjust slides, layouts, templates.  
 - [xlsx](https://github.com/anthropics/skills/tree/main/skills/xlsx) - Spreadsheet manipulation: formulas, charts, data transformations.
 - [revealjs-skill](https://github.com/ryanbbrown/revealjs-skill/tree/main) - Generate polished, professional presentations using the Reveal.js HTML presentation framework.
+- [toolpantry-skill](https://github.com/wu736139669/toolpantry-skill) - Routes file tasks (compress, convert, resize, merge/split/sign PDFs, extract audio, strip metadata) to 164 free browser tools that run locally — no uploads, no accounts. Includes a searchable catalog and live tools.json.
 
 
 
