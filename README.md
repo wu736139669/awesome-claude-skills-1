@@ -234,6 +234,7 @@
 - [sequenzy-email-marketing](https://clawhub.ai/polnikale/sequenzy-email-marketing) - Operate Sequenzy email marketing workflows for subscribers, campaigns, sequences, and templates.
 - [TweetClaw](https://github.com/Xquik-dev/tweetclaw) - X/Twitter automation skill for search, posting, follower export, monitors, webhooks, and giveaways.
 - [browser-search](https://github.com/Johell1NS/browser-search) - Web search and browsing skill for AI agents with multi-engine search and stealth browsing.
+- [geo-agent-skills](https://github.com/wu736139669/geo-agent-skills) - Two skills for Generative Engine Optimization: ship Markdown versions + llms.txt so AI agents can read and cite a site, and audit AI-agent readiness with a 9-point score.
 
 ## 📰 Articles & Blog Posts
 
